@@ -38,3 +38,5 @@ for (lower, upper) in boundaries:
     #show the images
     cv2.imshow("images", np.hstack([image, output]))
     cv2.waitkey(0)
+
+#IMPROVE DOCUMENTATION AND TESTS
