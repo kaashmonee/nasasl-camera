@@ -1,4 +1,14 @@
 get images of all components
 
 1. get images and masses of everything in the october 15th
-document
+document and get the volume and mas
+
+2. start going through some of the things in the google doc so
+that i can get a general gist of what's up
+
+3. make a table of all the masses and everything that we have 
+
+4. using a mobius camera. targets are going to be 600 ft
+away from the launch site. see if you can find out how
+wide the field of view is going to be. see if you can
+find some blind spots.
